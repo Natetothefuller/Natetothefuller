@@ -32,11 +32,7 @@ Here are some ideas to get you started:
 
 ## 🛠 Technology Stack 
 
-* Java/Kotlin/Groovy 
-
-* MySQL, PostgreSQL, MongoDB 
-
-* Spring Framework, Spring Boot 
+* VSC  
 
 * GitHub/GitLab 
 
