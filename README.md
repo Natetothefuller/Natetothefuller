@@ -1,6 +1,9 @@
 
 # Hey! I'm Nathan 👋
 
+---
+
+## ☁️ About Me
 
 I am currently learning Python 🐍
 
