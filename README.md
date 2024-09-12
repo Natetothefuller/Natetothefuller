@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 How to reach me: <a href='mailto:full.nathan2007@gmail.com'>full.nathan2007@gmail.com</a> 
+📫 How to reach me: <a href='mailto:My Email'>full.nathan2007@gmail.com</a> 
 
 <p align='center'> 
    <a href="https://www.linkedin.com/in/yourprofile/"> 
