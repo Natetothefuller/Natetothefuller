@@ -30,6 +30,19 @@ Here are some ideas to get you started:
 
 ---
 
+## 🛠 Technology Stack 
+
+* Java/Kotlin/Groovy 
+
+* MySQL, PostgreSQL, MongoDB 
+
+* Spring Framework, Spring Boot 
+
+* GitHub/GitLab 
+
+---
+
+
 <p align='center'> 
    <a href="https://www.linkedin.com/in/yourprofile/"> 
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
