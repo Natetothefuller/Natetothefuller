@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I'm Nathan, a beginner python programer. although i also know lua
+### I'm Nathan, a beginner python programer. although i also know lua
 
 <!--
 **Natetothefuller/Natetothefuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
