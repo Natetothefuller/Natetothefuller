@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 ---
 
-🌱 I’m currently learning Python
-😄 Pronouns: He/Him
-⚡ Fun fact: I Started coding when I was 11
-📫 How to reach me: <a href='mailto:full.nathan2007@gmail.com'>My Email</a> 
+- 🌱 I’m currently learning Python
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I Started coding when I was 11
+- 📫 How to reach me: <a href='mailto:full.nathan2007@gmail.com'>My Email</a> 
 
 <p align='center'> 
    <a href="https://www.linkedin.com/in/yourprofile/"> 
