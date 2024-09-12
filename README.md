@@ -1,4 +1,3 @@
-## Hi there 👋
 ### I'm Nathan, a beginner python programer. although i also know lua
 
 <!--
