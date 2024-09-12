@@ -1,4 +1,5 @@
 ## Hi there 👋
+# I'm Nathan, a beginner python programer. although i also know lua
 
 <!--
 **Natetothefuller/Natetothefuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,14 +7,16 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+---
+
+🌱 I’m currently learning Python
+😄 Pronouns: He/Him
+⚡ Fun fact: I Started coding when I was 11
 📫 How to reach me: <a href='mailto:full.nathan2007@gmail.com'>My Email</a> 
 
 <p align='center'> 
