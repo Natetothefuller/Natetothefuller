@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 ---
+## 🏃Quick Facts
 
 - 🔭 I’m currently working on school projects
 - 🌱 I’m currently learning Python
