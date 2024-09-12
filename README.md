@@ -1,5 +1,7 @@
 # Hey! I'm Nathan 👋
 
+---
+
 I am currently learning Python 🐍
 
 I have a strong passion for coding ❤️
