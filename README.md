@@ -1,30 +1,18 @@
 
 # Hey! I'm Nathan 👋
 
----
-
-## ☁️ About Me
-
 I am currently learning Python 🐍
 
 I have a strong passion for coding ❤️
 
 My first coding language was Lua 🟦
 
+---
 
+## ☁️ About Me
 
+Im Nathan, I have been coding video games as passion projects for awhile now. But i recently starting learning python. you can contact me with my socials a little bit lower on this page
 
-<!--
-**Natetothefuller/Natetothefuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- ...
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
 ---
 ## 🏃Quick Facts
 
@@ -32,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Started coding when I was 11
-- 📫 How to reach me: <a href='mailto:full.nathan2007@gmail.com'>My Email</a> 
+- 📫 How to reach me: <a href='mailto:nathan.fuller@lkfn.com'>My Email</a> 
 
 ---
 
