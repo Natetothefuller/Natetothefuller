@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📫 How to reach me: <a href='mailto:full.nathan2007@gmail.com'>full.nathan2007@gmail.com</a> 
 
 <p align='center'> 
    <a href="https://www.linkedin.com/in/yourprofile/"> 
@@ -22,7 +23,6 @@ Here are some ideas to get you started:
    <a href="https://t.me/yourchannel"> 
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
    </a> 
-   📫 How to reach me: <a href='mailto:your.email@example.com'>your.email@example.com</a> 
 </p> 
 
 <p align='center'> 
