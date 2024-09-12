@@ -17,7 +17,7 @@ Im Nathan, I have been coding video games as passion projects for awhile now. Bu
 ## 🏃Quick Facts
 
 - 🔭 I’m currently working on school projects
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning *Python*
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Started coding when I was 11
 - 📫 How to reach me: <a href='mailto:nathan.fuller@lkfn.com'>My Email</a> 
